@@ -1,0 +1,70 @@
+
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+Assets/Apex/
+Assets/Editor Default Resources/
+Assets/Energy Bar Toolkit/
+
+Assets/Standard Assets/
+Assets/Apex.meta
+Assets/Editor Default Resources.meta
+Assets/Editor.meta
+Assets/Energy Bar Toolkit.meta
+Assets/GameDataEditor.meta
+Assets/Gizmos.meta
+Assets/ProCoreBundle/
+Assets/ProCoreBundle.meta
+Assets/JMO Assets/
+Assets/JMO Assets.meta
+
+*.TMP
+Assets/StudentAdmin/
+Assets/StudentAdmin.meta
+Assets/PlayMaker/
+Assets/Plugins/
+Assets/Gizmos/PlayMakerFSM Icon.tiff
+Assets/Gizmos/
+Assets/iTween/
+Assets/iTween.meta
+Assets/PlayMaker.meta
+Assets/Plugins.meta
+Assets/net.fabrejean/
+Assets/PlayMaker Custom Actions/
+Assets/net.fabrejean.meta
+Assets/PlayMaker Custom Actions.meta
+Assets/Chronos
+Assets/Chronos.meta
